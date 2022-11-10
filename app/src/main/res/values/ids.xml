@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lb_nim" type="id" />
+    <item name="tv_nim" type="id" />
+    <item name="view_nim" type="id" />
+    <item name="lb_nama" type="id" />
+    <item name="tv_nama" type="id" />
+    <item name="view_nama" type="id" />
+    <item name="lb_alamat" type="id" />
+    <item name="tv_alamat" type="id" />
+    <item name="view_alamat" type="id" />
+    <item name="lb_prodi" type="id" />
+    <item name="tv_prodi" type="id" />
+    <item name="view_prodi" type="id" />
+    <item name="lb_tgllahir" type="id" />
+</resources>
